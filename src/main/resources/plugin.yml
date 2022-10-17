@@ -1,0 +1,8 @@
+name: SimpleGUIs
+version: '${project.version}'
+main: adhdmc.simplegui.SimpleGUI
+api-version: 1.19
+description: A plugin for simple GUI implementation.
+commands:
+  simplegui:
+    description: Testing command for CustomGUI plugin.
