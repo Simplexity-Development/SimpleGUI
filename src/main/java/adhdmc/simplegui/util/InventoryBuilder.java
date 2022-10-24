@@ -30,4 +30,8 @@ public class InventoryBuilder {
         return inventory;
     }
 
+    private static void generateItem(String item) {
+
+    }
+
 }
